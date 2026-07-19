@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <!-- 1. 導航地圖視圖（鋪滿底層） -->
+    <com.google.android.libraries.navigation.NavigationView
+        android:id="@+id/navigation_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <!-- 👇 2. 新增的開始導航按鈕（置底、置中，疊加在地圖上方） -->
+    <Button
+        android:id="@+id/btn_start_navigation"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="48dp"
+        android:paddingStart="24dp"
+        android:paddingEnd="24dp"
+        android:text="@string/btn_start_navigation_label"
+        android:textSize="16sp" />
+
+</RelativeLayout>
