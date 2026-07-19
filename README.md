@@ -21,7 +21,7 @@
 專案區分為兩個獨立的 Android 專案資料夾：
 
 ```text
-├── /starter      # 初始專案（已更新至 SDK 7.8.0 與相關相依套件，保留空白方法供練習）
+├── /Starter      # 初始專案（已更新至 SDK 7.8.0 與相關相依套件，保留空白方法供練習）
 └── /completed    # 完成版專案（包含完整的生命週期配置、路點優化與相機跟隨邏輯）
 
 ```
@@ -39,11 +39,11 @@
 
 ## 🚀 快速開始與 API 金鑰設定
 
-由於 `/starter` 與 `/completed` 為兩個獨立的 Gradle 專案，API 金鑰必須配置在對應專案的目錄下。請依循以下步驟操作：
+由於 `/Starter` 與 `/completed` 為兩個獨立的 Gradle 專案，API 金鑰必須配置在對應專案的目錄下。請依循以下步驟操作：
 
 1. 登入 Google Cloud Console，確認專案已啟用 **Maps SDK for Android** 以及 **Navigation SDK**，且該帳戶已啟用帳單功能（導航路由要求必須綁定帳單）。
 2. 根據您欲開啟與執行的專案，在該專案的**根目錄**下建立名為 `secrets.properties` 的檔案：
-* 若欲執行練習版，請建立於：`專案根目錄/starter/secrets.properties`
+* 若欲執行練習版，請建立於：`專案根目錄/Starter/secrets.properties`
 * 若欲執行完成版，請建立於：`專案根目錄/completed/secrets.properties`
 
 
@@ -54,7 +54,7 @@ MAPS_API_KEY=YOUR_GOOGLE_MAPS_API_KEY
 ```
 
 
-4. 使用 Android Studio 開啟對應的資料夾（`/starter` 或 `/completed`）。
+4. 使用 Android Studio 開啟對應的資料夾（`/Starter` 或 `/completed`）。
 5. 點擊工具列的 **Sync Project with Gradle Files** 進行同步，完成後即可編譯執行。
 
 ---
