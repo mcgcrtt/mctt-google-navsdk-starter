@@ -1,0 +1,3 @@
+# 排除根目錄與所有子目錄下的 .DS_Store
+.DS_Store
+**/.DS_Store
