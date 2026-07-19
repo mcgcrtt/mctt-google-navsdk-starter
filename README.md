@@ -39,7 +39,7 @@
 ## 🚀 快速開始與 API Key 設定
 
 1. 登入 Google Cloud Console，確認專案已啟用 **Maps SDK for Android**、**Places API** 以及 **Navigation SDK**，且該帳戶已啟用帳單功能（導航路由要求必須綁定帳單）。
-2. 在專案的**根目錄**下，建立名為 `local.properties` 的檔案。
+2. 在專案的**根目錄**下，建立名為 `secrets.properties` 的檔案。
 3. 在檔案中填入您的 API 金鑰：
 ```properties
 MAPS_API_KEY=YOUR_GOOGLE_MAPS_API_KEY
