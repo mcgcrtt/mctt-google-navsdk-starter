@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <!--
 Copyright 2024 Google LLC
 
@@ -14,5 +15,6 @@ See the License for the specific language governing permissions and
 limitations under the License.
 -->
 <resources>
-    <string name="app_name">Nav SDK Codelab</string>
+
+    <style name="Theme.NavSDKCodelab" parent="@style/Theme.AppCompat.Light.NoActionBar" />
 </resources>

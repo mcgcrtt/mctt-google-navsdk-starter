@@ -15,4 +15,5 @@ limitations under the License.
 -->
 <resources>
     <string name="app_name">Nav SDK Codelab</string>
+    <string name="btn_start_navigation_label">開始模擬導航</string>
 </resources>
