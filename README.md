@@ -20,7 +20,7 @@
 專案區分為兩個獨立的 Android 專案資料夾：
 
 ```text
-├── /Starter      # 初始專案（已更新至 SDK 7.8.0 與相關相依套件，保留空白方法供練習）
+├── /Starter      # 初始專案（來源為：https://github.com/googlemaps-samples/codelab-navigation-101-android-kotlin.git）
 └── /completed    # 完成版專案（包含完整的生命週期配置、路點優化與相機跟隨邏輯）
 
 ```
