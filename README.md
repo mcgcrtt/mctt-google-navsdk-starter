@@ -9,12 +9,11 @@
 
 專案區分為兩個獨立的 Android 專案資料夾：
 
-```text
-├── /Starter      # 初始專案（來源為：https://github.com/googlemaps-samples/codelab-navigation-101-android-kotlin.git）
-└── /completed    # 此版本針對官方 [Codelab](https://codelabs.developers.google.com/codelabs/maps-platform/navigation-sdk-101-android?hl=zh-tw#0) 原始範例中的非同步生命週期錯誤、複雜地下站體引發的路點解析錯誤（WAYPOINT_ERROR），以及導航初始化時相機方位角重置問題進行了調整與修正。
+`/Starter`
+初始專案（來源為：https://github.com/googlemaps-samples/codelab-navigation-101-android-kotlin.git）
 
-
-```
+`/completed`
+此版本針對官方 [Codelab](https://codelabs.developers.google.com/codelabs/maps-platform/navigation-sdk-101-android?hl=zh-tw#0) 原始範例中的非同步生命週期錯誤、複雜地下站體引發的路點解析錯誤（WAYPOINT_ERROR），以及導航初始化時相機方位角重置問題進行了調整與修正。
 
 ---
 
