@@ -57,3 +57,22 @@ MAPS_API_KEY=YOUR_GOOGLE_MAPS_API_KEY
 5. 點擊工具列的 **Sync Project with Gradle Files** 進行同步，完成後即可編譯執行。
 
 ---
+
+
+## 🏢 技術支援與專案維護
+
+本專案由 **思想科技 Master Concept** 編譯維護。
+
+**思想科技 Master Concept** 為亞太地區領先的雲端技術顧問，同時也是 Google Cloud 菁英合作夥伴（Google Cloud Premier Partner）。我們深耕雲端產業與地圖智慧逾十數年，提供企業最專業的 **Google Maps Platform** 地理圖資解決方案（Location Analytics）、路線最佳化計算，以及 Navigation SDK 在企業端 App 的深度整合技術指導。
+
+* **官方網站**: [https://masterconcept.ai/zh-hant/](https://masterconcept.ai/zh-hant/)
+* **Google Maps Platform 解決方案**: [探索更多企業地圖應用](https://masterconcept.ai/zh-hant/partners/google-cloud/google-maps-platform/)
+* **聯絡我們**: 如需進一步的 API 整合、商用圖資技術支援或客製化雲端轉型方案，歡迎透過官網與我們的技術專家聯繫。
+
+## 📜 授權條款 (License)
+
+本專案採用 **Apache License 2.0** 條款開源釋出。您可以自由複製、修改與商用本專案之程式碼，惟須保留原始之版權與作者聲明。詳情請參閱專案根目錄下的 `LICENSE` 檔案。
+
+
+> *© 2026 Master Concept. All Rights Reserved. Google Maps Platform and Navigation SDK are trademarks of Google LLC.*
+
