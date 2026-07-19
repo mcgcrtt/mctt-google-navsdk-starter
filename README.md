@@ -1,4 +1,3 @@
-```markdown
 # Google Navigation SDK for Android - Codelab (Taipei Route Edition)
 
 本專案提供 Google Navigation SDK 在 Android 環境下的實作範例，規劃路線為台北 101 至台北車站商圈（全長約 5.5 公里）。專案適配 Android 14+ (API 34/36)，並實作 Navigation SDK v7.8.0 的架構與配置規範。
